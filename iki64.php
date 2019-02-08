@@ -48,7 +48,7 @@ function iki64_decode($data, $key){
     $dua    = Decipher($data, $keyLen);
     $lima   = array_unique($tiga);
     $enam   = implode($lima);
-    $tuju   = strtr($dua, $enam, $eepat);
+    $tuju   = strtr($dua, $enam, $empat);
     $satu   = base64_decode($tuju);
     return $satu;
 };
