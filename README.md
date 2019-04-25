@@ -1,10 +1,15 @@
 # iki64
 base64 with key
 
-## example.php
+## how to
+```
+//    to encode     $data                    $key
+echo iki64_encode('this is iki64 example', 'secret');
 
-encode :
-http://localhost/example.php?mode=enc&data=ganteng&key=milio48
 
-decode :
-http://localhost/tes/example.php?mode=dec&data=G2MbkNCbGd==&key=milio48
+//    to decode     $data                          $key
+echo iki64_decode('nOkqiyMqiyMqj2b2LZMcdOAxiOhc', 'secret');
+```
+
+## demo
+http://tpcg.io/yRXQsC
