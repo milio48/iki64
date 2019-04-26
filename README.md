@@ -3,6 +3,8 @@ base64 with key
 
 ## how to
 ```
+include("iki64.php");
+
 //    to encode     $data                    $key
 echo iki64_encode('this is iki64 example', 'secret');
 
