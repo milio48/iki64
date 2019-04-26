@@ -12,4 +12,4 @@ echo iki64_decode('nOkqiyMqiyMqj2b2LZMcdOAxiOhc', 'secret');
 ```
 
 ## demo
-http://tpcg.io/yRXQsC
+http://tpcg.io/0xCvk1
