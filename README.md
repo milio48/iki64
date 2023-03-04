@@ -15,3 +15,6 @@ echo iki64_decode('nOkqiyMqiyMqj2b2LZMcdOAxiOhc', 'secret');
 
 ## demo
 http://tpcg.io/0xCvk1
+
+
+#kapan updatenya cuy
