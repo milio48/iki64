@@ -1,0 +1,19 @@
+{
+    "name": "justalinko/iki64",
+    "description": "Base64 Encode Decode With Key",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Justalinko\\Iki64\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "justalinko",
+            "email": "alinkokomansuby@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
